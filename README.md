@@ -78,14 +78,6 @@ Democratizar o acesso ao ensino de programação, oferecendo conteúdo gratuito,
 - Dicas importantes para iniciantes
 - Navegação entre linguagens
 
-## Tecnologias
-
-- **HTML5** - Estrutura semântica
-- **CSS3** - Estilos modernos com variáveis CSS
-- **JavaScript Vanilla** - Interatividade sem dependências
-- **FontAwesome** - Ícones consistentes
-- **Google Fonts** - Tipografia de qualidade
-
 ## Responsividade
 
 O site é totalmente responsivo e funciona em:
